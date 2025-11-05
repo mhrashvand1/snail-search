@@ -33,6 +33,12 @@ source .venv/bin/activate
 .venv\Scripts\activate
 ```
 
+Apply database migrations:
+
+```bash
+python manage.py migrate
+```
+
 Populate the database (this step may take a few minutes):
 
 ```bash
