@@ -61,5 +61,11 @@ http://127.0.0.1:8000/api/search?q=inception
 
 
 
+## Notes
 
+- Improving search quality earns extra points. 
+
+- You have complete freedom in choosing the technology to improve search speed and quality.
+
+- Elasticsearch might be a good option.
 
