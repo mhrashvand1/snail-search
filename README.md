@@ -75,3 +75,11 @@ http://127.0.0.1:8000/api/search?q=inception
 
 - Elasticsearch might be a good option.
 
+
+## Keep in mind
+
+- The result is important by how you get there is much more important
+
+- Sooner is beter but take your time, your are not an sprinter
+
+- In case you didn't reach the finish line, just describe your effort
